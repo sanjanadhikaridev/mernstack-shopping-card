@@ -1,0 +1,9 @@
+Using mernstack.
+Deploy it to the heroku.
+
+heroku login
+heroku git:clone -a mern-stack-mongoatlas
+cd mern-stack-mongoatlas
+
+
+Mongodb Atlas
